@@ -1,7 +1,6 @@
 # horiseon-code-refactor
 REVISIONS
 
-Initial task was to update page to ensure accessibility standards are met so that people with disabilities can access the site using assistive technologies like video captions, screen readers and braille keyboards. Additional accessibility updates may provide site with higher ranking with search engines like Google.
 
 HTML
 
